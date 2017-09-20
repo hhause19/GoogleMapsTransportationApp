@@ -1,5 +1,6 @@
 # GoogleMapsTransportationApp
-google maps transportation planning app using the google maps API. 
+google maps transportation planning app using the google maps API
+
 
 This project was started from scratch for a client who was looking to use the Google Maps API to plan new bus routes for his transportation consulting service. The current functionality includes allowing the user to place multiple pins on the map (representing the bus stops) and then the program will calculate the total distance as a result.
 
